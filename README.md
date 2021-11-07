@@ -9,6 +9,9 @@
 [![Infomaniak](https://badgen.net/badge/Infomaniak/Affiliated%20link?icon=K)](https://www.infomaniak.com/goto/fr/home?utm_term=6151f412daf35)
 [![Express VPN](https://badgen.net/badge/Express%20VPN/Affiliated%20link?icon=K)](https://www.xvinlink.com/?a_fid=TontonJo)  
 ## Informations:  
-This repository contains somes scripts and tips for Proxmox hypervisor and backup server
+- This repository contains somes scripts and tips for Proxmox hypervisor and backup server.  
+- Each folder contain explanations and details about the content.
 
-Find here [more of my videos about proxmox](https://www.youtube.com/playlist?list=PLU73OWQhDzsTfsnczSJWENIpZn1CNMzNP)
+## Clés de registre - Registry keys
+### Ce dossier contiens des clés de registre utiles - This folder contains usefull registry keys
+[Sous-dossier clés de registre - Registry Keys subfolder](https://github.com/Tontonjo/windows/tree/main/registry_keys)
