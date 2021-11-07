@@ -1,5 +1,4 @@
-# Proxmox
-
+# Windows Registry keys
 ## Tonton Jo - 2021  
 ### Join the community:
 [![Youtube channel](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCnED3K6K5FDUp-x_8rwpsZw&key=AIzaSyA3ivqywNPQz0xFZBHfPDKzh1jFH5qGD_g)](http://youtube.com/channel/UCnED3K6K5FDUp-x_8rwpsZw?sub_confirmation=1)
@@ -12,17 +11,13 @@
 This folder contains somes registry keys Windows 10 and / or Windows 11
 
 ## Utilisation - Usage:  
-### French
-- Faire un clique droit sur le fichier puis "enregistrer sous"
-- Double cliquer sur le fichier .reg et accepter l'ajout au registre.
-- Redémarrer le poste
-### English
-- Make a right click on the link and hit "save as"
-- Double click on the .ref file and acknolege the add
-- Reboot the computer
+- Faire un clique droit sur le fichier puis "enregistrer sous" - Make a right click on the link and hit "save as"
+- Double cliquer sur le fichier .reg et accepter l'ajout au registre. - Double click on the .ref file and acknolege the add
+- Redémarrer le poste - Reboot the computer
 
 # List of registry keys available:
 
 ## Ancien Menu clique droite pour Windows 11 - Old fashioned right click menu for Windows 11  
-### For: Windows 11  
+### For: Windows 11 
+### Target: Windows explorer 
 [Windows 11 old right click menu](https://github.com/Tontonjo/windows/raw/main/registry_keys/w11_old_right_click_menu.reg)
