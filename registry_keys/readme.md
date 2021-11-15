@@ -17,10 +17,11 @@ This folder contains somes registry keys Windows 10 and / or Windows 11
 
 ## List of registry keys available:
 
-### Ancien Menu clique droite pour Windows 11 - Old fashioned right click menu for Windows 11  
+### Old fashioned right click menu for Windows 11  
 | Syntax      | Description |
 | ----------- | ----------- |
 | For | Windows 11 |  
 | Target | Windows explorer |   
 | Check | letf click on desktoop or item and old menu should appears |   
+| Link | [left click - save as](https://github.com/Tontonjo/windows/raw/main/registry_keys/w11_old_right_click_menu.reg) |   
 [Windows 11 old right click menu](https://github.com/Tontonjo/windows/raw/main/registry_keys/w11_old_right_click_menu.reg)
