@@ -18,7 +18,7 @@ This folder contains somes registry keys Windows 10 and / or Windows 11
 ## List of registry keys available:
 
 ### Old fashioned right click menu for Windows 11  
-| Registry key  | Old fashioned right click menu for Windows 11 |
+| Registry key | Old fashioned right click menu for Windows 11 |
 | ----------- | ----------- |
 | For | Windows 11 |  
 | Target | Windows explorer |   
