@@ -12,6 +12,5 @@
 - This repository contains somes scripts and tips for Proxmox hypervisor and backup server.  
 - Each folder contain explanations and details about the content.
 
-## Clés de registre - Registry keys
-### Ce dossier contiens des clés de registre utiles - This folder contains usefull registry keys
-[Sous-dossier clés de registre - Registry Keys subfolder](https://github.com/Tontonjo/windows/tree/main/registry_keys)
+## Registry keys
+[Registry Keys subfolder](https://github.com/Tontonjo/windows/tree/main/registry_keys)
