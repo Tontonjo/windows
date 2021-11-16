@@ -1,4 +1,4 @@
-# Windows Tools - scripts - utilities
+# Windows Tools - scripts - Registry keys
 
 ## Tonton Jo - 2021  
 ### Join the community:
