@@ -21,5 +21,5 @@ This folder contains somes registry keys Windows 10 and / or Windows 11
 | ----------- | ----------- |
 | For | Windows 11 |  
 | Target | Windows explorer |   
-| Proof of work | letf click on desktoop or item and old menu should appears |   
+| Proof of work | letf click on desktop or item and old menu should appears |   
 | Link | [left click - save as](https://github.com/Tontonjo/windows/raw/main/registry_keys/w11_old_right_click_menu.reg) |   
