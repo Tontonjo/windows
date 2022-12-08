@@ -19,7 +19,7 @@ get-wuinstall --verbose --download --install --acceptall
 ```shell
 $profile
 ```
-### Go to this location: if file exist: edit it/ if not: create it
+### Go to this location: if file exist: edit it / if not: create it
 ```shell
 Function run-update {Get-Wuinstall -Acceptall -Verbose -install}
 New-Alias update run-update
