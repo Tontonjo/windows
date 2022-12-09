@@ -9,6 +9,9 @@ http://woshub.com/pswindowsupdate-module/
 Install-Module -Name PSWindowsUpdate -Force
 ```
 ```shell
+set-executionpolicy remotesigned
+```
+```shell
 import-Module -Name PSWindowsUpdate --silent
 ```
 ## Download and install updates
