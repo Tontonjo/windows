@@ -11,6 +11,7 @@ Install-Module -Name PSWindowsUpdate -Force
 ```shell
 import-Module -Name PSWindowsUpdate --silent
 ```
+## Download and install updates
 ```shell
 get-wuinstall --verbose --download --install --acceptall
 ```
@@ -24,3 +25,8 @@ $profile
 Function run-update {Get-Wuinstall -Acceptall -Verbose -install}
 New-Alias update run-update
 ```
+### Now you can update with ease using an elevated powershell prompt
+```shell
+update
+```
+
