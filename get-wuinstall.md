@@ -12,7 +12,7 @@ Install-Module -Name PSWindowsUpdate -Force
 set-executionpolicy remotesigned
 ```
 ```shell
-import-Module -Name PSWindowsUpdate --silent
+import-Module -Name PSWindowsUpdate
 ```
 ## Download and install updates
 ```shell
