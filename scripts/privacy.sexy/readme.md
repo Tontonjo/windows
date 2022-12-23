@@ -1,4 +1,4 @@
-# Correct error 0x80888002 upgrading to Windows 11 22h2  
+# Privacy.sexy
 
 ## Tonton Jo  
 ### Join the community:
