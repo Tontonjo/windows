@@ -13,4 +13,4 @@
 [Youtube](https://www.google.com](https://privacy.sexy)
 
 ## Sources  
-[I'm an inline-style link](https://www.google.com](https://privacy.sexy)
+[I'm an inline-style link](https://privacy.sexy)
