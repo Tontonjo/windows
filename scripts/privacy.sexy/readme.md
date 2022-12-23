@@ -10,7 +10,7 @@
 [![Express VPN](https://badgen.net/badge/Express%20VPN/Affiliated%20link?icon=K)](https://www.xvuslink.com/?a_fid=TontonJo)  
 
 ## Demo
-[Youtube](https://www.google.com](https://privacy.sexy)
+[Youtube](https://privacy.sexy)
 
 ## Sources  
 [I'm an inline-style link](https://privacy.sexy)
