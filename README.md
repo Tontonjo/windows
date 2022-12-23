@@ -13,14 +13,14 @@
 - Each folder contain explanations and details about the content.
 
 ## Registry keys
-[Registry Keys subfolder](https://github.com/Tontonjo/windows/tree/main/registry_keys)
+[Registry Keys subfolder](https://github.com/Tontonjo/windows/tree/main/registry_keys)  
 
 ## Powershell
-[Windows update](https://github.com/Tontonjo/windows/blob/main/powershell/pswindowsupdate.md)
+[Windows update](https://github.com/Tontonjo/windows/blob/main/powershell/pswindowsupdate.md)  
 
 ## Fixe errors
-[Update to Windows 11 22h2 error 0x80888002](https://github.com/Tontonjo/windows/blob/main/fixes/0x80888002.md)
+[Update to Windows 11 22h2 error 0x80888002](https://github.com/Tontonjo/windows/blob/main/fixes/0x80888002.md)  
 
 ## Scripts
-[Chocolatey automatic update](https://github.com/Tontonjo/windows/tree/main/scripts/chocolatey)
-[privacy.sexy](https://github.com/Tontonjo/windows/tree/main/scripts/privacy.sexy)
+[Chocolatey automatic update](https://github.com/Tontonjo/windows/tree/main/scripts/chocolatey)  
+[privacy.sexy](https://github.com/Tontonjo/windows/tree/main/scripts/privacy.sexy)  
