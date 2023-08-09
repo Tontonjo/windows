@@ -16,7 +16,7 @@
 [Registry Keys subfolder](https://github.com/Tontonjo/windows/tree/main/registry_keys)  
 
 ## Powershell
-[Windows update](https://github.com/Tontonjo/windows/blob/main/powershell/pswindowsupdate.md)  
+[Windows update](https://github.com/Tontonjo/windows/tree/main/powershell/pswindowsupdate)
 
 ## Fix errors
 [Update to Windows 11 22h2 error 0x80888002](https://github.com/Tontonjo/windows/blob/main/fixes/0x80888002.md)  
